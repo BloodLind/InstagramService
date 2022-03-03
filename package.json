@@ -1,0 +1,15 @@
+{
+  "name": "bloodlind-instagram-service",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "instagram-private-api": "^1.45.3",
+    "readline-sync": "^1.4.10",
+    "socks-proxy-agent": "^6.2.0-beta.0"
+  }
+}
